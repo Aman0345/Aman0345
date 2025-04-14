@@ -26,4 +26,3 @@ I'm a **Software Engineer** specializing in **Android development** with a deep 
 - 💼 [LinkedIn](http://www.linkedin.com/in/aman-ansari-47737726a)
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
