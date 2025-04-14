@@ -24,5 +24,6 @@ I'm a **Software Engineer** specializing in **Android development** with a deep 
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/aman-ansari-47737726a)
+- 📧 [Email](amanansari17082004@gmail.com)
 ---
 
